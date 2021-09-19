@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#home{
+    height: 300;
+    background-color: skyblue;
+}
+p{
+   text-decoration-color: deeppink;
+   text-decoration-style: dotted;
+}
+h1{
+    text-decoration: underline;
+    text-decoration-color: darkgreen;
+    text-decoration-style: dotted;
+}
+img{
+    height: 100;
+    width: 100;
+}
+#about{
+    height: 200;
+    background-color: chartreuse;
+}
